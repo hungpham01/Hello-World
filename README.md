@@ -5,7 +5,7 @@ and mocking to help me learn about unit test and mocking
 
 ## Running test via unittest
 
-To run test via unit test there are various way to run, eelow are a few:
+To run test via unit test there are various way to run, below are a few:
 
 ```
 python -m unittest discover -v
